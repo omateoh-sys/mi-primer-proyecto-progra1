@@ -1,0 +1,11 @@
+¿Qué aprendiste sobre el flujo de trabajo con Git y
+GitHub?
+ Aprendi como usar los commit, agregar un archivo READMI.md, como fusionar y solucionar algunos problemas que se van dando.
+
+¿Cómo fue la experiencia de trabajar en pareja? ¿Encontraste algún
+conflicto? ¿Cómo lo resolviste?
+No trabajé en pareja, mas sin embargo si tube cinflicto a la hora de fusionar, ya que tenia que hacer merge para que se reflejaran los cambios en el repositorio.
+
+¿Qué ventajas crees que tiene usar Git en proyectos de programación?
+Una de las principales ventajas es que puedes llevar el historial de los cambios de tu proyecto, y el dato de quien los hizo, si lo estas trabajando en pareja o remota.
+Puedes identificar desde que momento se hizo un cambio indebido.
